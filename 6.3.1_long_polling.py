@@ -3,7 +3,7 @@ import time
 
 
 API_URL = 'https://api.telegram.org/bot'
-BOT_TOKEN = '6337746585:AAGbmoOQnYOS1UZhH7ncs8R7DAi51DXrvMc'
+BOT_TOKEN = ''
 
 offset = -2
 updates: dict

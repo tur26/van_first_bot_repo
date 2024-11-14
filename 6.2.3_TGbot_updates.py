@@ -4,7 +4,7 @@ import time
 # api_url = 'https://api.telegram.org/bot6337746585:AAGbmoOQnYOS1UZhH7ncs8R7DAi51DXrvMc/getUpdates'
 
 API_URL = 'https://api.telegram.org/bot'
-BOT_TOKEN = '6337746585:AAGbmoOQnYOS1UZhH7ncs8R7DAi51DXrvMc'
+BOT_TOKEN = ''
 TEXT = 'Ура! Классный апдейт!'
 MAX_COUNTER = 100
 
